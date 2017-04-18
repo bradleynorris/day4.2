@@ -1,0 +1,31 @@
+img {
+  height: 40px;
+  width: 55px;
+  margin-top: -10px;
+}
+
+.btn {
+  background-color: saddlebrown;
+  color: white;
+  margin-top: 7px;
+}
+
+.jumbotron {
+  border-radius: 20px;
+  width: 90%;
+  height: 380px;
+  margin-left: 50px;
+  padding: 20px;
+  color: darkblue;
+}
+
+.snickers {
+  height: 100px;
+  width: 400px;
+  margin-left: 350px;
+}
+
+.well {
+  background-color: saddlebrown;
+  color: white;
+}
